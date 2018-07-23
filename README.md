@@ -20,5 +20,5 @@ Please checkout out other Coupe repositories in our Posgraph github organization
 * [POSTECH CG Lab.](http://cg.postech.ac.kr/)
 
 ## Reference
-Paris et al., "Local Laplacian Filters: Edge-aware Image Processing with a Laplacian Pyramid", In proc. SIGGRAPH 2011.
-Dong et al., "Image Super-Resolution Using Deep Convolutional Networks", In proc. ECCV 2014.
+* Paris et al., "Local Laplacian Filters: Edge-aware Image Processing with a Laplacian Pyramid", In proc. SIGGRAPH 2011.
+* Dong et al., "Image Super-Resolution Using Deep Convolutional Networks", In proc. ECCV 2014.
